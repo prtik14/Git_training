@@ -1,2 +1,2 @@
-*.md  @SharmaCharu
+*.md  @prtik14 @SharmaCharu
 
