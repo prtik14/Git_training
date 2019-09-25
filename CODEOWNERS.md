@@ -1,2 +1,2 @@
-*  @SharmaCharu
+*.md  @SharmaCharu
 
